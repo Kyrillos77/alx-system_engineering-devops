@@ -1,7 +1,7 @@
-1- switch the user 
-2-
-3-
-4-
+1-switch user
+2-print the current user
+3-print groups
+4-change the owner of the file
 5-
 6-
 7-
